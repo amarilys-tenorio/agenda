@@ -1,0 +1,23 @@
+table,
+td {
+    border: 1px solid rgb(255, 255, 255);
+    height: 160px;
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: 60px;
+    font-size: 25px;
+}
+
+h1,
+select,
+input {
+margin-left: 100px;
+margin-top: 70px;
+}
+
+body {
+    background-image: url(agenda.jpg);
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    font-family: 'Staatliches', cursive;
+}
